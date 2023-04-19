@@ -59,6 +59,7 @@ export  function ErrorBoundary({error}) {
                 <h1>Error</h1>
                 <p>TEST</p>
                 <p>TEST 2</p>
+                <p>TEST 3</p>
                 <p>{error.message}</p>
             </Layout>
         </Document>
